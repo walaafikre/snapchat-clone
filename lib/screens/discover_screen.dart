@@ -231,7 +231,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
-          "Popular Snap Stars",
+          'Popular Snap Stars',
           style: TextStyle(
               fontSize: 16, color: Black, fontWeight: FontWeight.bold),
         ),
@@ -350,7 +350,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
                                             padding:
                                                 const EdgeInsets.only(top: 3),
                                             child: Text(
-                                              "Subscribe",
+                                              'Subscribe',
                                               style: TextStyle(
                                                   fontSize: 14,
                                                   color: Black,
@@ -377,7 +377,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
               Padding(
                 padding: const EdgeInsets.only(top: 8, bottom: 12),
                 child: Text(
-                  "View More",
+                  'View More',
                   style: TextStyle(
                       fontSize: 14, color: Black, fontWeight: FontWeight.bold),
                 ),
@@ -398,14 +398,14 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              "Trending Lenses",
+              'Trending Lenses',
               style: TextStyle(
                   fontSize: 16, color: Black, fontWeight: FontWeight.bold),
             ),
             Row(
               children: [
                 Text(
-                  "Explore Lenses",
+                  'Explore Lenses',
                   style: TextStyle(
                       fontSize: 13,
                       color: Black.withOpacity(0.5),
@@ -522,7 +522,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
               Padding(
                 padding: const EdgeInsets.only(top: 8, bottom: 12),
                 child: Text(
-                  "View More",
+                  'View More',
                   style: TextStyle(
                       fontSize: 14, color: Black, fontWeight: FontWeight.bold),
                 ),
@@ -543,7 +543,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
           Padding(
             padding: const EdgeInsets.only(left: 10, top: 10),
             child: Text(
-              "For You",
+              'For You',
               style: TextStyle(
                   fontSize: 16, color: Black, fontWeight: FontWeight.bold),
             ),
