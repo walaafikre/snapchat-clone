@@ -1,0 +1,46 @@
+name: flutter_snapchat_clone_full
+description: A new Flutter application.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  flutter_icons: ^1.1.0
+  google_maps_flutter: ^2.0.1
+  geolocator: ^6.2.1
+  page_transition: ^1.1.7
+  video_player: ^2.0.0
+  shared_preferences: ^0.5.12
+  provider: ^3.0.2
+  path_provider: ^1.6.27
+  esys_flutter_share: ^1.0.2
+  camera: ^0.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+
