@@ -20,7 +20,6 @@ dependencies:
   provider: ^3.0.2
   path_provider: ^1.6.27
   esys_flutter_share: ^1.0.2
-  camera: ^0.8.0
 
 dev_dependencies:
   flutter_test:
